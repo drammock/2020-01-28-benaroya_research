@@ -12,7 +12,7 @@ startdate: 2020-01-28           # machine-readable start date for the workshop i
 enddate: 2020-01-29             # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Daniel McCloy, Anthony Valente"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Ezgi Irmak Yucel, Hyeon Jeong Kim, Kim Dill-McFarland"]    # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["KFlynn@benaroyaresearch.org"]         # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["KFlynn@benaroyaresearch.org", cquinn@benaroyaresearch.org]  # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:                     # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -64,6 +64,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="registration_custom">Registration</h2>
+To register for the workshop, please email Kaitlin Flynn (kflynn@benaroyaresearch.og) or Charlie Quinn (cquinn@benaroyaresearch.org).
 
 <h2 id="general">General Information</h2>
 
@@ -134,7 +136,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>). <strong>Note from the instructors:</strong> When you install the required software (in advance of the workshop!) please install a GUI text editor too, as a backup in case something goes wrong with your command-line text editor. If you're not sure which editor to pick, pick Sublime Text.
 </p>
 
 {% comment%}
