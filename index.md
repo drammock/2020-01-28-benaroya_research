@@ -65,6 +65,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <h2 id="registration_custom">Registration</h2>
+
 To register for the workshop, please email Kaitlin Flynn (kflynn@benaroyaresearch.og) or Charlie Quinn (cquinn@benaroyaresearch.org).
 
 <h2 id="general">General Information</h2>
