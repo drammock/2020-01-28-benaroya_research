@@ -66,7 +66,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="registration_custom">Registration</h2>
 
-To register for the workshop, please email Kaitlin Flynn (<a href="mailto:kflynn@benaroyaresearch.org">kflynn@benaroyaresearch.org</a>) or Charlie Quinn (<a href="mailto:cquinn@benaroyaresearch.org">cquinn@benaroyaresearch.org</a>).
+To register for the workshop, please email Kaitlin Flynn (<a href="mailto:kflynn@benaroyaresearch.org">kflynn@benaroyaresearch.org</a>) or Charlie Quinn (<a href="mailto:cquinn@benaroyaresearch.org">cquinn@benaroyaresearch.org</a>).  **Please note that this workshop is for employees of Benaroya Research Institute; it is not open to the general public.** 
 
 <h2 id="general">General Information</h2>
 
